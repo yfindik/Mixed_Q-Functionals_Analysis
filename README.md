@@ -43,13 +43,13 @@ The key contributions can be summarized as:
 
 ## Training
 
-For the code to train the models, please refer to the other [repository](https://drive.google.com/drive/folders/1ITibXQsn3gix3YCPUNEBPU00Cr1aWont). 
+For the code to train the models, please refer to the other [repository](https://github.com/yfindik/Mixed_Q-Functionals). 
 There, you will find implementations for each algorithm, along with the necessary guidelines for training the models.  
 
 
 ## ToDos
 
-- Share the latest trained models for the algorithms.
+- Share the latest trained models of the algorithms.
 
 
 
